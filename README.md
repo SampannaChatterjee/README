@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://sampanna.netlify.app/](https://sampanna.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sampannachatterjee.netlify.app/](https://sampannachatterjee.netlify.app/)
 
 - 💬 Ask me about **Java, MySQL, Spring, SpringBoot, Hibernate, HTML, CSS & JavaScript**
 
